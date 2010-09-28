@@ -11,3 +11,5 @@ alteração
 alteração meu_branch
 
 alteração meu_branch 2
+
+alteração meu_branch 3
